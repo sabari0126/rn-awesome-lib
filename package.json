@@ -1,6 +1,6 @@
 {
   "name": "rn-awesome-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Demo SDK is a lightweight, modular software development kit designed to showcase the integration and capabilities of our platform features within a mobile or web application. It provides developers with a reference implementation, sample APIs, and utility functions to simplify onboarding and demonstrate real-world usage.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
